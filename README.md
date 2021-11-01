@@ -4,6 +4,8 @@
 <p>Full stack web devleoper, React Native Developer</p>
 <p>Backend Development is the thing that I love the most</p>
 
+<hr />
+
 #### Improving 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
@@ -29,11 +31,16 @@
 ![React Native](https://img.shields.io/badge/-React_Native-black?style=flat-square&logo=react)
 ![Expo](https://img.shields.io/badge/-Expo-violet?style=flat-square&logo=expo)
 
+<hr />
+
 <h2>Github Stats</h2>
 <p align="center"> 
+  
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankur-9598&theme=dark)](https://git.io/streak-stats)
   &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankur-9598&show_icons=true&locale=en&theme=tokyonight" alt="localhost:3000" />
 </p>
+
+<hr />
 
 ### Reach out to me at-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahultwr/) 
