@@ -36,12 +36,12 @@
 <h2>Github Stats</h2>
 <p align="center"> 
   
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ankur-9598&theme=dark)](https://git.io/streak-stats)
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ankur-9598&show_icons=true&locale=en&theme=tokyonight" alt="localhost:3000" />
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=localhost-8000&theme=dark)](https://git.io/streak-stats)
+  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=localhost-8000&show_icons=true&locale=en&theme=tokyonight" alt="localhost:8000" />
 </p>
 
 <hr />
 
 ### Reach out to me at-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahultwr/) 
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-localhost/) 
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:rahultwr0005@gmail.com)
