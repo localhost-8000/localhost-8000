@@ -1,8 +1,13 @@
 <h2>Hey, 🙋🏼‍♂️</h2>
 <p>I'm Rahul Tiwari 🤠, 4th year CSE grad, from NIT Agartala</p>
-<p>I've experienced working in max of the tech stacks in full stack web development.</p>
-<p>But Backend Development is the thing that I love the most.</p>
-<p><b>All I want is One cup tea and VS Code 🙂.</b></p>
+<p>I've experienced working in max of the tech stacks in full stack web development, But Backend Development is the thing that I love the most.</p>
+<p><b>All I want is One cup tea and opened VS Code 🙂.</b></p>
+
+<hr />
+
+<p><b>You watch 👀 I count 😁</b></p>
+
+![](https://komarev.com/ghpvc/?username=localhost-8000&color=brightgreen)
 
 <hr />
 
