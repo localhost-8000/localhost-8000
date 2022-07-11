@@ -11,7 +11,7 @@
 
 <hr />
 
-### 💪 Languages that I know
+### 💪 Languages which I can't speak but I can write
 
 <br />
 
@@ -25,7 +25,7 @@
 
 <hr />
 
-### 🚀 Frameworks and Libraries I've worked on
+### 🚀 Frameworks and Libraries I've worked and working
 
 <br/>
 
@@ -42,7 +42,7 @@
 
 <hr />
 
-### 🏪 Storing things on
+### 🏪 Storaging things on ( except knowledge:) )
 
 <br />
 
