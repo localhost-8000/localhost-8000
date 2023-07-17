@@ -78,6 +78,9 @@
 
 <hr />
 
+<a href="https://www.teacheron.com/tutor-profile/7I1q?r=7I1q" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/viewMyProfile.png" style="width: 160px !important; height: 68px !important"></a>
+<a href="https://www.teacheron.com/tutor-profile/7I1q?r=7I1q" target="_blank" style="display: inline-block;"><img src="https://www.teacheron.com/resources/assets/img/badges/writeToReview.png" style="width: 160px !important; height: 68px !important"></a>
+
 ### Reach out to me at-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rahul-localhost/) &nbsp;
 [<img src ="https://img.shields.io/badge/Email-Here-%23E4405F.svg?&style=for-the-badge&logo=&logoColor=white%22">](mailto:rahultwr0005@gmail.com)
